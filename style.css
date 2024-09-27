@@ -1,0 +1,13 @@
+.row{
+    display: flex;
+}
+.background{
+    color: black;
+    opacity: 0.6;
+}
+img{
+    width: 50%;
+}
+h1{
+    text-align: center;
+}
